@@ -1,4 +1,4 @@
-//ch31/ex31.1/public/todo.js
+
 (function($) {
     'use strict';
     $(function() {
